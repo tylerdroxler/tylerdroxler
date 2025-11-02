@@ -9,7 +9,7 @@ I'm a cybersecurity student at Western Governors University, building real-world
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tylerdroxler/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tylerdroxler/threat-hunting-scenario-TOR-Browser-usage-)**
 
 <hr/>
 
